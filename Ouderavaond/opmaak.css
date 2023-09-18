@@ -2,24 +2,36 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  width: 200px;
-  background-color: #f1f1f1;
+  overflow: hidden;
+  background-color: #004F68;
+}
+
+li {
+  float: left;
 }
 
 li a {
   display: block;
-  color: #93B800;
-  padding: 8px 16px;
+  color: #DBFF4A;
+  text-align: center;
+  padding: 14px 16px;
   text-decoration: none;
 }
 
-li a.active {
-  background-color: #10817A;
-  color: white;
+li a:hover {
+  background-color: #111;
 }
 
-/* Change the link color on hover */
-li a:hover:not(.active) {
-  background-color: #004F68;
-  color: white;
+h1 {
+  background-color: #0995C1;
 }
+
+body {
+  background-color: #003E46;
+}
+
+img {
+  width: 200px;
+  height: 100px;
+}
+
