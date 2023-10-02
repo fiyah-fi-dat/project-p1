@@ -44,13 +44,3 @@ img {
   height: 5%;
   background-color:   #0995C1;
 }
-
-
-
-/*grid container section of css*/
-
-.item1 { grid-area: header; }
-.item2 { grid-area: menu; }
-.item3 { grid-area: main; }
-.item4 { grid-area: right; }
-.item5 { grid-area: footer; }
