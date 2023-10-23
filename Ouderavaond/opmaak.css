@@ -43,12 +43,31 @@ body {
   background-position:center center;
   margin: 0%;
   background-attachment: fixed;
-  
+  image-resolution:  from-image 300dpi;
 
 }
 
 img {
   width: 15%;
-  height: 5%;
+  height: 4%;
   background-color:   #FFE5B4;
+  image-resolution:  600dpi ;
+
 }
+
+/*grid layout*/
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto ;
+  
+  padding: 10px;
+}
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+} 
