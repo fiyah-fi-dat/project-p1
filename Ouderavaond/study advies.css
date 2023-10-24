@@ -1,0 +1,88 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #FAF9F6;
+    position: relative;
+    margin-top: -2%;
+    width: 100%;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: greenyellow;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  
+  h1 {
+    background-color: #FFE5B4;
+    width: 85%;
+    margin-top: -7.1%;
+    margin-left: 15%;
+    overflow: hidden;
+    padding-top: 2.1%;
+  padding-bottom: 2.12%;
+  
+  }
+  
+  body {
+    background-image: url(Images/background-techniekcollege.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center center;
+    margin: 0%;
+    background-attachment: fixed;
+    image-resolution:  from-image 300dpi;
+  
+  }
+  
+  img {
+    width: 15%;
+    height: 2%;
+    background-color:   #FFE5B4;
+    image-resolution:  600dpi ;
+    opacity: 50;
+    margin-top: -1%;
+    padding-bottom: 0.5%;
+  
+  }
+  
+  
+  .content-1{
+   
+  
+   width:fit-content;
+    margin-top: 5%;
+    align-items: center;
+    position: relative;
+  margin-left: 10%;
+  background-color: #FFE5B4;
+  padding: 15px;
+  border-radius: 15px;
+  }
+  
+  
+  .content-2{
+   
+  
+    width:fit-content;
+     margin-top: -12.4%;
+     align-items: center;
+     position: relative;
+   margin-left: 60%;
+   background-color: #FFE5B4;
+   padding: 15px;
+   border-radius: 15px;
+  overflow: hidden;
+   }
