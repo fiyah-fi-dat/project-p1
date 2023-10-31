@@ -80,4 +80,13 @@ border-radius: 15px;
  overflow: hidden;
 }
 
- 
+.content-3{
+width:fit-content;
+margin-top: 5%;
+align-items: center;
+position: relative;
+margin-left: 10%;
+padding: 15px;
+border-radius: 15px;
+overflow: hidden;
+} 

@@ -74,14 +74,12 @@ ul {
   
   
   .content-2{
-   
-  
-    width:fit-content;
+    width: 4500px;
      margin-top: -12.4%;
      align-items: center;
      position: relative;
    margin-left: 60%;
-   background-color: #FFE5B4;
+   
    padding: 15px;
    border-radius: 15px;
   overflow: hidden;
